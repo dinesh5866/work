@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 2.5em;
+    color:green;
+    text-shadow: 0px 0px 10px green;
+}
+article{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 1em;
+}
+.container{
+    height: 430px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 1em;
+    margin-top: 1em;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px green;
+}
+.card1{
+    height: 230px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+#pandya{
+    height: 230px;
+    width: 297px;
+    border-radius: 25px;
+}
+#rule{
+    text-align: center;
+    color: green;
+}
+#para{
+    font-weight:600;
+    font-style: italic;
+}
+#reign{
+    margin-left: 120px;
+}
+#reign1{
+    margin-left: 25px;
+}
+#reign2{
+    margin-left: 55px;
+}
+#learn{
+    margin-left: 100px;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+#learn:active{
+    color: green;
+}
+#learn:focus{
+    color: red;
+}
+#learn:hover{
+    transition: 0.4s ease-in;
+}
+#cholas{
+    height: 228px;
+    width: 297px;
+    border-radius: 25px;
+}
+#rule1{
+    color: red;
+    text-align: center;
+}
+.container1{
+    height: 410px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 1em;
+    margin-top: 1em;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px red;
+}
+#para1{
+    margin-top: 1em;
+}
+#reign3{
+    margin-left: 70px;
+}
+#reign4{
+    margin-left: 123px;
+}
+#reign5{
+    margin-left: 65px;
+}
+#reign6{
+    margin-left: 50px;
+}
+#learn1{
+    margin-left: 100px;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+#learn1:active{
+    color: green;
+}
+#learn1:focus{
+    color: red;
+}
+#learn1:hover{
+    transition: 0.4s ease-in;
+}
+.container3{
+    height: 390px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 1em;
+    margin-top: 1em;
+    border-radius: 25px;
+    box-shadow: 0px 0px 25px orange;
+}
+#cheras{
+    height: 229px;
+    width: 298px;
+    border-radius: 30px;
+}
+#rule2{
+    color: orange;
+    text-align: center;
+}
+#reign6{
+    margin-left: 50px;
+}
+#reign7{
+    margin-left: 10px;
+}
+#ashoka{
+    height: 230px;
+    width: 297px;
+    border-radius: 25px;
+}
+.container4{
+    height: 423px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 1em;
+    margin-top: 1em;
+    border-radius: 25px;
+    box-shadow: 0px 0px 15px orangered;
+}
+#reign8{
+    font-weight: bold;
+}
+#shivaji{
+    height: 230px;
+    width: 298px;
+    border-radius: 25px;
+}
+#reign9{
+    margin-left: 30px;
+    font-weight: bold;
+}
+#jhansi{
+    height: 230px;
+    width: 297px;
+    border-radius: 25px;   
+}
+#reign10{
+    margin-left: 10px;
+    font-weight: bold;
+}
+#para2{
+    text-align: justify;
+}
